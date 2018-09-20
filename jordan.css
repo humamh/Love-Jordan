@@ -1,0 +1,65 @@
+.jorimg {
+    height: 40px;
+    width: 40px;
+    background: #aaa;
+}
+.upbar {background-color:#efa908;
+    font-style: inherit
+}
+
+:root {
+    
+}
+body {
+    background-color: #FFFFFF;
+}
+.card {
+    border-radius:0;
+    margin:10px auto ;
+}
+.card-title {
+	text-transform: uppercase;
+	color: #E44424;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+h6 {font-size: 35px;}
+
+p1 {font-size: 20px;}
+
+p2 {font-size: 50px;
+color: #E44424;
+margin:35px ;}
+
+p3 {font-size: 50px;
+    color: #E44424;
+    margin:10px auto;
+   
+font-style: oblique}
+
+h4 {font-size: 25px;}
+p4 {font-size: 18px;}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#efa908;
+    color: white;
+    text-align: center; }
